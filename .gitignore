@@ -1,3 +1,8 @@
-*.log
+# Игнорировать файл README.md.
+README.md
 
-!main.log
+# Игнорировать файл side.txt в директории build.
+build/side.txt
+
+# Игнорировать все файлы с расширением .doc
+*.doc
